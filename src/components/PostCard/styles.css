@@ -1,0 +1,16 @@
+.post {
+    background-color: #fff;
+    box-shadow: 0 0 10p rgba(ß0, 0, 0, 0.1);
+  }
+  
+  .post-content {
+    padding: 30px;;
+  }
+  
+  .post img {
+    max-width: 100%;
+  }
+  
+  .post-content {
+    padding: 10px;
+  }
